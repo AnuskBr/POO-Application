@@ -10,4 +10,4 @@ This application serves as a comprehensive guide, offering detailed information 
 ## Implementation:
 Using an object-oriented approach with classes and subclasses, the app ensures a structured and reliable representation of tourist data. The design prioritizes clarity and usability to provide an efficient and enjoyable experience for all users.
 
-For more information about the application, please consult the available documentation in Romanian.
+For more information about the application, please consult the available [documentation](Documentatie.doc) in Romanian.
